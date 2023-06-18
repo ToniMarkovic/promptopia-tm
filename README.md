@@ -1,34 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptopia
+> Fullstack Next.JS 13 application.
 
-## Getting Started
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Project Status](#project-status)
+* [Acknowledgements](#acknowledgements)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## General Information
+Fullstack application that allows users to log in, create, update, delete prompts, search prompts by username, tags, or content, and visit other users' profiles.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Technologies Used
+- Next.js
+- Tailwind CSS
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Features
+- Authentication
+- CRUD operations
+- Search functionality
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Screenshots
+![Screenshot (3)](https://github.com/ToniMarkovic/promptopia-tm/assets/92318672/a1561ccf-94d8-4cf6-a5d4-d176a7f21c08)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Project Status
+Project is _no longer being worked on.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Acknowledgements
+- This project was based on [this video]([https://www.jsmastery.pro/ultimate-react-course](https://youtu.be/wm5gMKuwSYk)https://youtu.be/wm5gMKuwSYk).
+- Many thanks to JS Mastery
