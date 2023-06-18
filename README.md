@@ -36,5 +36,5 @@ Project is _no longer being worked on.
 
 
 ## Acknowledgements
-- This project was based on [this video]([https://www.jsmastery.pro/ultimate-react-course](https://youtu.be/wm5gMKuwSYk)https://youtu.be/wm5gMKuwSYk).
+- This project was based on [this video](https://www.jsmastery.pro/ultimate-react-course](https://youtu.be/wm5gMKuwSYk)https://youtu.be/wm5gMKuwSYk).
 - Many thanks to JS Mastery
